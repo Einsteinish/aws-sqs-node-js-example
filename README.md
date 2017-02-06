@@ -8,7 +8,7 @@ apt-get update
 apt-get upgrade -y
 apt-get dist-upgrade -y
 apt-get autoremove -y
-apt-get install nodejs npm -y
+apt-get install nodejs npm git -y
 ln -s /usr/bin/nodejs /usr/bin/node
 git clone https://github.com/Einsteinish/aws-sqs-node-js-example.git
 cd aws-sqs-node-js-example
