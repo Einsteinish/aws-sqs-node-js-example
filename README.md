@@ -21,3 +21,6 @@ cp config-sample.json config.json
 ```
 node app.js
 ```
+
+## Tutorial
+[AWS SQS NodeJS Example](http://www.bogotobogo.com/DevOps/AWS/aws-Amazon-SQS-Simple-Queue-Service-with-NodeJS-AWS-SDK.php)
